@@ -24,6 +24,8 @@
 
 4: xuan's parents arrive
 
+6: wrap wires with pipe cleaners
+
 8pm: live cinema
 
 -  prepare sugoi oto for performance
