@@ -21,3 +21,7 @@ checklist for tools, supplies and equipment to practice as a nomadic sound artis
 ## sugoi oto
 
 instrument/installation based on vocals provided by miyu hosoi
+
+## workshop
+
+reference docs for upcoming workshop at reverse gallery
