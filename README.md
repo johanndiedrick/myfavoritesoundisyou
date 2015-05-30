@@ -65,3 +65,6 @@ bio/artist statement?
 - speaker wires
 - 1/4" and 1/8" jacks
 - plasti dip
+
+- transitor
+- XLR to 1/4" mic
