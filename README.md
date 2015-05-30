@@ -29,42 +29,4 @@ fb event: https://www.facebook.com/events/1446608545633386/
 
 ## proposed project:
 
-build lara's tremolo circuit
-
-good vibrations 1-on-1: formalize feeback process
-
-work on foundlings 
-
-make a hauting w miyu's voice
-
-nomadic sound artist things to pack/check list
-
-figure out workshop details re: pricing, outline
-
-- email nick, merche, look at other workshops
-
-bio/artist statement?
-
-## to bring (template for nomadic sound artist tool kit):
-- tremolo
-- some basic electronics (definitely pcb)
-- listening kit
-- disposable camera
-- zoom recorder
-- multimeter
-- solder
-- soldering iron
-- wires
-- arduino
-- bass
-- amp
-- directional mic
-- skateboard
-- a hauting equipment
-- pizeo elements
-- speaker wires
-- 1/4" and 1/8" jacks
-- plasti dip
-
-- transitor
-- XLR to 1/4" mic
+can be found in issues

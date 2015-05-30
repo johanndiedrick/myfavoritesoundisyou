@@ -1,0 +1,24 @@
+# sound artist as nomad supplies
+
+- tremolo
+- some basic electronics (definitely pcb)
+- listening kit
+- disposable camera
+- zoom recorder
+- multimeter
+- solder
+- soldering iron
+- wires
+- arduino
+- bass
+- amp
+- directional mic
+- skateboard
+- a hauting equipment
+- pizeo elements
+- speaker wires
+- 1/4" and 1/8" jacks
+- plasti dip
+- transitor
+- XLR to 1/4" mic
+- box of resistors and transistors and breadboard and speakers
