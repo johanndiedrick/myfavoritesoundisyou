@@ -1,6 +1,6 @@
 # my favorite sound is you
 
-my favorite sound is you is a micro-residency hosted by a pure apparatus (xuan ye) during her residency, everything without a "real" is fake. during the residency i will be making installations, conducting listening tours, writing software, doing performances, working on documentation and making spontaneous, improvised and impromtu projects relating to the active participation of sound making.
+my favorite sound is you is a micro-residency hosted by a pure apparatus (xuan ye) during her residency, everything without a "real" is fake at being generation gallery in toronto, canada. during the residency i will be making installations, conducting listening tours, writing software, doing performances, working on documentation and making spontaneous, improvised and impromtu projects relating to the active participation of sound making.
 
 ## general info
 a.pureapparat.us
