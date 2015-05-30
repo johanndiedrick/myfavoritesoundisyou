@@ -15,3 +15,5 @@ to get:
 4: xuan's parents arrive
 
 8pm: live cinema
+
+-  prepare sugoi oto for performance
