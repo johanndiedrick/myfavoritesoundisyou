@@ -22,3 +22,5 @@
 - transitor
 - XLR to 1/4" mic
 - box of resistors and transistors and breadboard and speakers
+- 9V recharable batteries
+- waterproof everything
