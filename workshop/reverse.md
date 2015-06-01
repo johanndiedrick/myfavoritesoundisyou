@@ -1,6 +1,6 @@
 ## Workshop title 
 
-Soundings
+Naked Ear: Tools and Techniques for Sound Art
 
 ## Desciption
 
