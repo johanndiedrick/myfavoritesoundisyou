@@ -28,4 +28,10 @@
 
 8pm: live cinema
 
--  prepare sugoi oto for performance
+-  prepare cloudbursting for performance
+
+	- preload sample, cycle through samples
+	
+	- double check logging for use tomorrow
+
+	- add in onebang for samples
