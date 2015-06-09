@@ -7,9 +7,7 @@ my favorite sound is you is a weekend-long (5/30-5/31) micro-residency hosted by
 ## documentation
 beyong this repo, photos and videos can be found here.
 
-[instagram](https://instagram.com/explore/tags/myfavoritesoundisyou/)
-
-more will be posted once its produced/developed.
+[#myfavoritesoundisyou](https://instagram.com/explore/tags/myfavoritesoundisyou/)
 
 ## proposed projects
 
