@@ -1,6 +1,15 @@
+![myfavoritesoundisyou](https://igcdn-photos-h-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11380925_912618272130215_129981810_n.jpg)
+
 #my favorite sound is you
 
 my favorite sound is you is a weekend-long (5/30-5/31) micro-residency hosted by a pure apparatus (xuan ye // http://a.pureapparat.us) during her residency, everything without a "real" is false, at being generation gallery, 867 dundas west street,  in toronto, canada. during the residency i will be making installations, conducting listening tours, writing software, doing performances, working on documentation and making spontaneous, improvised and impromptu projects relating to the active participation of sound making.
+
+## documentation
+beyong this repo, photos and videos can be found here.
+
+[instagram](https://instagram.com/explore/tags/myfavoritesoundisyou/)
+
+more will be posted once its produced/developed.
 
 ## proposed projects
 

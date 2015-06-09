@@ -7,7 +7,7 @@ Naked Ear: Tools and Techniques for Sound Art
 This workshop is for artists and researchers wanting to become more familiar with the potential of sound. Our focus will be on expanding our understanding of sound in an environment. This requires a basic vocabulary for talking about sound as a material, as well as the ability to make and use tools for investigating and manipulating sound for creative purposes.
 
 
-Our frame of reference will be Good Vibrations, a mobile listening kit that allows “acoustic explorers” to find abandoned sounds in their environment. By using hand- made microphones and amplifiers, listeners can tune into the subtle vibrations
+Our frame of reference will be Good Vibrations, a mobile listening kit that allows “acoustic explorers” to find the lesser audible sounds in their environment. By using hand- made microphones and amplifiers, listeners can tune into the subtle vibrations
 that usually go unnoticed. The project encourages listeners to reimagine their sonic environment by playfully exploring the world through their ears.
 
 
